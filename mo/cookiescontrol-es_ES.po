@@ -1,0 +1,379 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CookiesControl\n"
+"POT-Creation-Date: 2013-09-04 11:27+0100\n"
+"PO-Revision-Date: 2013-09-04 12:14+0100\n"
+"Last-Translator: Álvaro Martínez Majado <a@alvaro.cat>\n"
+"Language-Team: Playbrand Estratègies Crossmèdia <tecnologia@playbrand.info>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/play/Desktop/treball/cookiescontrol\n"
+
+#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:101
+msgid ""
+"We use cookies. By continuing browsing this site you accept our cookies "
+"policy."
+msgstr ""
+"Como la mayoría de webs, usamos cookies. Si continúas navegando entenderemos "
+"que estás de acuerdo."
+
+#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:102
+msgid "Accept"
+msgstr "Aceptar"
+
+#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:103
+msgid "Find out more"
+msgstr "Más información"
+
+#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:129
+msgid "CookiesControl"
+msgstr ""
+
+#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:135
+msgid "About"
+msgstr "Sobre"
+
+#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:135
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:249
+msgid "Options"
+msgstr "Configuración"
+
+#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:135
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:39
+msgid "Apparence"
+msgstr "Apariencia"
+
+#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:151
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No dispone de perimisos suficientes para ver esta página."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:43
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:156
+msgid "Options saved"
+msgstr "Opciones guardadas"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:58
+msgid "Bar position"
+msgstr "Posición de la barra"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:59
+msgid "Select the position for the button bar"
+msgstr "Trieu la posición per a la barra d'acceptació"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:64
+msgid "Bottom"
+msgstr "Abajo"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:65
+msgid "Top"
+msgstr "Arriba"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:71
+msgid "Background colour"
+msgstr "Color del fondo"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:72
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:80
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:87
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:95
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:102
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:109
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:116
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:124
+msgid ""
+"Enter colour such as black, red, white. Or use hex values including the hash "
+"e.g. #000000"
+msgstr ""
+"Escribir un color en inglés como black, red, white. O usar valores en "
+"hexadecimal como #000000"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:79
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:271
+msgid "Text Colour"
+msgstr "Color del texto"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:86
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:274
+msgid "Accept Button Text Colour"
+msgstr "Color del texto del botón de aceptación"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:94
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:277
+msgid "Accept Button Background Colour"
+msgstr "Color de fondo del botón de aceptación"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:101
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:280
+msgid "Accept Button Border Colour"
+msgstr "Color del borde del botón de aceptación"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:108
+msgid "More info Button Text Colour"
+msgstr "Color del texto del botón de más información"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:115
+msgid "More info Button Border Colour"
+msgstr "Color del borde del botón de más información"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:123
+msgid "More info Button Background Colour"
+msgstr "Color de fondo del botón de más información"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:132
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:223
+msgid "Save Options"
+msgstr "Guardar las opciones"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:171
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:251
+msgid "Button Bar Text"
+msgstr "Texto de la barra"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:172
+msgid "Enter the text that you would like to see in the button bar."
+msgstr "Escribir el texto que debe aparecer en la barra de aviso."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:181
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:254
+msgid "Cookie Information Page"
+msgstr "Página de información de las cookies"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:182
+msgid "Select the page where your cookie information can be found."
+msgstr ""
+"Elegir la página en la que se da más información sobre el uso de las cookies."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:204
+msgid "Opt-in - Header Code"
+msgstr "Código del header a aceptar"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:205
+msgid ""
+"If you have custom code in the  &lt;head&gt; of your website such as Google "
+"analytics, you can make it opt-in by pasting the code in this box. The code "
+"will not be shown unless the visitor has accepted cookies."
+msgstr ""
+"Si tiene código personalizado en el head como Google Analytics, puede "
+"hacerlo sujeto a aceptación pegándolo en esta caja. El código no aparecerá "
+"hasta que el usuario haya aceptado las cookies. "
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:213
+msgid "Comment form cookie warning"
+msgstr "Aviso en el formulario de comentarios."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:214
+msgid ""
+"Warn your visitors that by placing a comment on your website they are "
+"agreeing to have a cookie placed on their computer. This text will appear on "
+"the comment form."
+msgstr ""
+"Avisa al visitante que al hacer un comentario acceden a que se instale una "
+"cookie en su navegador. El mensaje aparece en el formulario de comentarios. "
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:239
+msgid "CookiesControl (Spanish law)"
+msgstr "CookiesControl (normativa española)"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:241
+msgid ""
+"This plugin helps you to comply with the 2009/136/CE Directive, whose "
+"requirements require you to not install cookies in users' browser untill "
+"they permit so, explicitly or implicitly."
+msgstr ""
+"Este módulo ayuda a cumplir con lo establecido en la directiva 2009/136/CE, "
+"que obliga a no instalar cookies en el navegador de los usuarios hasta que "
+"lo acepten, de un modo explícito o implícito."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:243
+msgid "What does this plugin do?"
+msgstr "¿Qué hace este módulo?"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:244
+msgid ""
+"It gives your visitors the option to opt in (or leave the webpage) any third "
+"party applications such as Google Analytics or Ad Sense. The plugin then "
+"leaves a cookie of its own to remember them next time. The cookie will "
+"expire after one year."
+msgstr ""
+"Permite a los visitantes aceptar el uso de cookies (o abandonar la página) "
+"de aplicaciones de terceros como Google Analytics o Ad Sense. El módulo "
+"mismo deja una cookie para recordar su preferencia en el futuro. La cookie "
+"caduca en un año. "
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:246
+msgid "Widget"
+msgstr "Widget"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:247
+msgid ""
+"This plugin comes with an opt-in widget for your sidebar. Anything added to "
+"the widget is opt in. So if you insert your Adsense code here it will only "
+"show if the visitor has accepted cookies. "
+msgstr ""
+"Este módulo viene con un widget para la barra lateral. Todo lo que se añada "
+"en él aparecerá tras la aceptación. Así que si se inserta un código de "
+"Adsense solo se verá cuando las cookies se hayan aceptado. "
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:252
+msgid ""
+"Edit the warning text as shown on the button bar. The Spanish law states "
+"that this message should be written in Spanish or Catalan or Basque or "
+"Galician."
+msgstr ""
+"Editar el mensaje de aviso de la barra. La normativa española indica que "
+"debe estar escrito en español, catalán, vasco o gallego."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:255
+msgid ""
+"Create a page that contains your cookie information such as what cookies are "
+"and what you use them for. Select your cookie information page from the list "
+"and this will link to the 'More info' button on the button bar. The Spanish "
+"law states that this text should be written in Spanish or Catalan or Basque "
+"or Galician."
+msgstr ""
+"Cree una página que contenga información sobre qué cookies se van a instalar "
+"y para qué se van a usar. Seleccione la página y aparecerá enlazada en el "
+"botón de más información. La ley española establece que el texto debe estar "
+"escrito en español, catalán, vasco o gallego."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:257
+msgid "Opt in header code"
+msgstr "Código del header"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:258
+msgid ""
+"Third party applications such as Google Analytics leave a cookie in order to "
+"be able to track your visitors. The 2009/136/CE Directive wants you to warn "
+"people of this and even have them 'opt in' so you shouldnt track them unless "
+"they agree to it. Any text/code that you enter in the 'opt in header code' "
+"field will only be activated once the user has accepted cookies. Any text/"
+"code in this field will be placed just above the <code> &lt;/head&gt; </"
+"code> tag."
+msgstr ""
+"Algunas aplicaciones de terceros como Google Analytics dejan una cookie para "
+"hacer el seguimiento de los visitantes. La directiva 2009/136/CE obliga a "
+"informar de ello y a obtener el consentimiento del usuario. Cualquier código "
+"o texto que haya en \"código del header\" se activará solo tras la "
+"aceptación de las cookies. El código o texto se pondrá antes del cierre de "
+"la etiqueta <code> &lt;/head&gt; </code>."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:260
+msgid "Comment Form Warning"
+msgstr "Aviso en el formulario de comentarios"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:261
+msgid ""
+"This CMS leaves a cookie when a comment is left (to save the form "
+"information so it doesnt have to be filled in next time) so using this field "
+"you can give your visitors a warning and let them whats going down. The "
+"Spanish law states that this warning should be written in Spanish or Catalan "
+"or Basque or Galician."
+msgstr ""
+"Este sistema e gestión de contenidos instala una cookie cuando alguien "
+"introduce un comentario (así se guarda su información y no hay que volver a "
+"introducirla más adelante). Usando este campo se puede alertar de ello al "
+"usuario. La ley española establece que el mensaje hay que escribirlo en "
+"español, catalán, vasco o gallego."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:263
+msgid "Appearance"
+msgstr "Aspecto"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:265
+msgid "Bar Position"
+msgstr "Posición de la barra"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:266
+msgid "Select the position for your button bar."
+msgstr "Elegir la posición de la barra"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:268
+msgid "Background Colour"
+msgstr "Color de fondo"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:269
+msgid ""
+"Change the background of your button bar by entering the name of the colour "
+"or a hex value."
+msgstr ""
+"Cambiar el color de fondo del botón de aceptación escribiendo su nombre en "
+"inglés o un valor hexadecimal. "
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:272
+msgid ""
+"Change the main text colour on the button bar by entering the name of the "
+"colour."
+msgstr ""
+"Cambiar el color del texto del botón de aceptación escribiendo su nombre en "
+"inglés o un valor hexadecimal. "
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:275
+msgid "It changes the accept button text colour."
+msgstr "Cambia el color del texto del botón de aceptación."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:278
+msgid "Make that button stand out with a background colour."
+msgstr "Hace que el botón aparezca con otro color de fondo. "
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:281
+msgid "You can even change the colour of the border of the button."
+msgstr "También se puede cambiar el color del borde del botón."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:283
+msgid "More Info Button Text Colour"
+msgstr "Color del texto del botón de más información"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:284
+msgid "It changes the More Info button text colour."
+msgstr "Cambia el color del texto del botón de más información."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:286
+msgid "More Info Button Background Colour"
+msgstr "Color de fondo del botón de más información."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:287
+msgid "It changes the More Info button background colour."
+msgstr "Cambia el color de fondo del botón de más información."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:289
+msgid "More Info Button Border Colour"
+msgstr "Color del borde del botón de más información."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:290
+msgid "It changes the More Info Button Border colour."
+msgstr "Cambia el color del borde del botón de más información."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:292
+msgid "Disclaimer"
+msgstr "Aviso"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:293
+msgid ""
+"No responsability is accepted by the contributors neither for the correct "
+"use or the misuse of this plugin. Please, contact with a lawyer for legal "
+"advice."
+msgstr ""
+"Los autores de este módulo no son responsables de las consecuencias "
+"derivadas de su uso, ni aunque su uso sea correcto. Por favor, contacte con "
+"una asesoría legal si precisa consejo legal."
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-widget.php:10
+msgid ""
+"Add opt-in code such as AdSense which will not be shown unless the user opts "
+"in"
+msgstr ""
+"Añadir código, por ejemplo de Google Ad Sense, que solo se muestra tras la "
+"aceptación de las cookies"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-widget.php:20
+msgid "Title"
+msgstr "Título"
+
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-widget.php:21
+msgid "Content"
+msgstr "Contenido"
