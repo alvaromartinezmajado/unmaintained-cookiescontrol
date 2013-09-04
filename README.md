@@ -3,8 +3,6 @@ cookiescontrol
 
 Wordpress plugin made to comply with European Union's 2009/136/CE Directive. Optimized with the Spanish rules.
 
-=== CookiesControl ===
-
 Contributors: alvaromartinezmajado
 Tags: cookies, eu cookie directive, spanish law
 Requires at least: 3.0
@@ -33,7 +31,7 @@ To install the plugin manually:
 
 Usage
 
-    Check the new "CookiesControl" item under "Options" menu, where an info screen will provide you further details. Check also the Widgets screen: a new "CookiesControl" widget should be available. The code in CookiesControl widgets will be executed only after the user has accepted the cookies. 
+Check the new "CookiesControl" item under "Options" menu, where an info screen will provide you further details. Check also the Widgets screen: a new "CookiesControl" widget should be available. The code in CookiesControl widgets will be executed only after the user has accepted the cookies. 
 
  == Screenshots ==
 
