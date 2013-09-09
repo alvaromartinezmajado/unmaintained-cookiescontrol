@@ -105,7 +105,7 @@ function cookiescontrol_setcookie() {
 	<link rel="stylesheet" type="text/css" media="all" href="<?php plugins_url();?>/css/" />
         <div id="cookie-allow" >
             <?php if ($cookiescontrol_optin['buttonbartext'] == "") { echo __( 'We use cookies. By continuing browsing this site you accept our cookies policy.', 'cookiescontrol'); } else { echo $cookiescontrol_optin['buttonbartext']; } ?>
-            <a id="removecookie" class="allow"> <?php echo __("Accept", "cookiescontrol"); ?></a>
+            <a id="removecookie" class="allow"> <?php echo __("Close", "cookiescontrol"); ?></a>
             <a id="more" class="cookiemore" href="<?php echo $cookiescontrol_optin['infolink']; ?>" target="_blank"><?php echo __("Find out more", "cookiescontrol"); ?></a>
         </div>
     

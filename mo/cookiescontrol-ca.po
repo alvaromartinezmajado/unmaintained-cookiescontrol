@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CookiesControl\n"
-"POT-Creation-Date: 2013-09-04 11:27+0100\n"
-"PO-Revision-Date: 2013-09-04 12:48+0100\n"
+"POT-Creation-Date: 2013-09-09 12:10+0100\n"
+"PO-Revision-Date: 2013-09-09 12:10+0100\n"
 "Last-Translator: Álvaro Martínez Majado <a@alvaro.cat>\n"
 "Language-Team: Playbrand Estratègies Crossmèdia <tecnologia@playbrand.info>\n"
 "Language: en\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: /Users/play/Desktop/treball/cookiescontrol\n"
 
-#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:101
+#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:107
 msgid ""
 "We use cookies. By continuing browsing this site you accept our cookies "
 "policy."
@@ -22,33 +22,34 @@ msgstr ""
 "Com la majoria de webs fem servir cookies. Si continues navegant, entendrem "
 "que hi estàs d'acord."
 
-#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:102
-msgid "Accept"
-msgstr "Accepta"
+#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:108
+msgid "Close"
+msgstr "Tanca"
 
-#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:103
+#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:109
 msgid "Find out more"
 msgstr "Vull saber-ne més"
 
-#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:129
+#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:133
 msgid "CookiesControl"
 msgstr ""
 
-#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:135
+#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:139
 msgid "About"
 msgstr "Quant a"
 
-#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:135
+#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:139
+#: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:152
 #: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:249
 msgid "Options"
 msgstr "Arranjaments"
 
-#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:135
+#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:139
 #: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-options.php:39
 msgid "Apparence"
 msgstr "Aparença"
 
-#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:151
+#: /Users/play/Desktop/treball/cookiescontrol/cookiescontrol-plugin.php:155
 msgid "You do not have sufficient permissions to access this page."
 msgstr "No teniu permissos suficients per veure aquesta pàgina."
 
@@ -378,3 +379,6 @@ msgstr "Títol"
 #: /Users/play/Desktop/treball/cookiescontrol/inc/cookiescontrol-widget.php:21
 msgid "Content"
 msgstr "Contingut"
+
+#~ msgid "Accept"
+#~ msgstr "Accepta"
