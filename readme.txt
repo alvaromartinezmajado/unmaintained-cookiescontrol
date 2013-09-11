@@ -4,7 +4,7 @@ Tags: cookies, eu cookie directive, spanish law
 Requires at least: 3.0
 Tested up to: 3.4.1
 Stable tag: 0.2
-version: 0.2
+version: 0.2 
 
 Get in line with the law and add an 'Accept Cookies' notice to your website
 

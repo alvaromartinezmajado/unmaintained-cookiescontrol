@@ -1,6 +1,6 @@
 <?php
 
-/*
+/* 
 
 Plugin Name: CookiesControl
 Plugin URI: http://alvaro.cat/obrador/plugin-per-a-wordpress-gestio-de-cookies.html
