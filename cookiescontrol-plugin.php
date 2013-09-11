@@ -6,7 +6,7 @@ Plugin Name: CookiesControl
 Plugin URI: http://alvaro.cat/obrador/plugin-per-a-wordpress-gestio-de-cookies.html
 Description: Control when your cookies are installed in users' browsers to comply with the European Union directive. Optimized for the Spanish law. 
 Author: Playbrand Estratègies Crossmèdia
-Version: 0.1
+Version: 0.2
 Author URI: http://playbrand.info
 
 No responsability is accepted by the contributors neither for the correct use or the misuse of this plugin. Please, contact with a lawyer for legal advice. 
@@ -113,9 +113,9 @@ function cookiescontrol_setcookie() {
     <script type="text/javascript">
         if( document.cookie.indexOf("<?php echo $choc_chip_cookie_name;?>") ===-1 ){
             $("#cookie-allow").show();
-            //Expiration of cookie. 365 is days 1 is year
+            //Expiration of cookie. Expires in a session. 
             // We set this cookie since configuration cookies are allowed without explicit confirmation
-            SetCookie('<?php echo $choc_chip_cookie_name;?>','<?php echo $choc_chip_cookie_name;?>',365*1)
+            SetCookie('<?php echo $choc_chip_cookie_name;?>','<?php echo $choc_chip_cookie_name;?>')
         }
         $("#removecookie").click(function () {
           $("#cookie-allow").remove();
