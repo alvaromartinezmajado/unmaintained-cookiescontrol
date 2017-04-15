@@ -1,4 +1,9 @@
-cookiescontrol
+Alert
+==============
+
+This plugin is unmaintained and deprecated, and no loger listed in the WordPress Plugin directory.
+
+(Unmaintained) cookiescontrol
 ==============
 
 Wordpress plugin made to comply with European Union's 2009/136/CE Directive. Optimized with the Spanish rules.
